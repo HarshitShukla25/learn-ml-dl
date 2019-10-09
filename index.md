@@ -1,27 +1,14 @@
-## Welcome to GitHub Pages
+## Roadmap for Machine Learning and Deep Learning
 
-You can use the [editor on GitHub](https://github.com/HarshitShukla25/learn-ml-dl/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There a LOT of resources to get you started on the path of Machine Learning. However you might find yourself one day in the Tutorial's Paradox where you end up signing in for a lot of MOOC's ,still get nowhere near to how actual ML works in the industry and research.Hence I created a curated list of all the resources which I personally read and viewed, the ones that I found the most useful, those which I believe would surely help you get a good grasp of all concepts and make you ready for starting your own projects in ML/DL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### For Pure Freshies.
 
-### Markdown
+For those who don't even have a single bit of idea of what ML/DL is- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[What is Machine Learning?](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+-[]()
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
